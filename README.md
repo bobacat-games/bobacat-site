@@ -1,2 +1,2 @@
 # bobacat-site
-BobaCat Games website
+BobaCat main website
