@@ -42,14 +42,19 @@ section {
 }
 
 .navbar {
-  display: flex; /* or inline-flex */
+  display: flex;
   justify-content: space-evenly;
   align-items: center;
   font-size: 25px
 }
 
 .itembox {
+  display: flex;
+  flex-direction: column;
   padding: 10px;
   border: 2px solid black;
   border-radius: 15px;
+  align-items: center;
+  height: 512px;
+  width: 512px;
 }
